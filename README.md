@@ -11,7 +11,7 @@ To build and run this Flutter app project in Visual Studio Code on your local ma
    - Click on the "Settings" icon in the left-bottom sidebar.
    - In the "Settings" panel, click on the Command Palette and select "Git: Clone".
    - Or you can directly open Command Palette using the keyboard shortcut `Ctrl+Shift+P`
-   - Enter the repository URL: `https://github.com/Babayaga-0007/GDSC-Flutter`.
+   - Enter the repository URL: `https://github.com/UMESH-042/GDSC-Flutter`.
    - Choose a local directory where you want to clone the repository.
    - Click "Clone" to download the project.
 
