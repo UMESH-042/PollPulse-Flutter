@@ -1,6 +1,10 @@
 # GDSC-Flutter
 # Flutter App Project - Installation Guide for Visual Studio Code
 
+## Figma Design
+
+For reference, you can view the Figma design for this project by clicking [here](https://www.figma.com/file/KAAj6qMlkKJ0HG39omnXkP/Voting-app?type=design&node-id=0%3A1&mode=design&t=w2UcQGJIplv3kSNZ-1).
+
 ## Installation
 
 To build and run this Flutter app project in Visual Studio Code on your local machine, follow these steps:
@@ -11,9 +15,18 @@ To build and run this Flutter app project in Visual Studio Code on your local ma
    - Click on the "Settings" icon in the left-bottom sidebar.
    - In the "Settings" panel, click on the Command Palette and select "Git: Clone".
    - Or you can directly open Command Palette using the keyboard shortcut `Ctrl+Shift+P`
-   - Enter the repository URL: `https://github.com/UMESH-042/GDSC-Flutter`.
+   - Enter the repository URL: `https://github.com/UMESH-042/PollPulse-Flutter`.
    - Choose a local directory where you want to clone the repository.
    - Click "Clone" to download the project.
+
+   **OR**
+
+   - Open Git Bash (ensure it's installed on your system).
+   - Navigate to the directory where you want to clone the repository.
+   - Run the following command:
+     ```bash
+     git clone https://github.com/UMESH-042/PollPulse-Flutter
+     ```
 
 2. Open the Project:
 
