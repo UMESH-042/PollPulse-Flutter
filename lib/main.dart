@@ -14,6 +14,8 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'PollPulse',
       home: const MyHomePage(title: 'PollPulse'),
+
+      
     );
   }
 }
