@@ -9,7 +9,7 @@
 
  ## Submitting a Pull Request
    - Write appropriate title
-    -Wrtie a proper description including the issue name and solution.
+    - Write a proper description including the issue name and solution.
 
 ## Using GitHub Issues
    - Feel free to use GitHub issues for questions, bug reports, and feature requests 
